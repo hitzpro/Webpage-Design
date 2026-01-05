@@ -13,12 +13,12 @@ Desain website company profile untuk sekolah.
   <tr>
     <td width="50%">
       <div style="height:600px; overflow:auto;">
-        <img src="./Basic-School-webDesign-1/PREVIEW/Homepage.png" width="100%">
+        <img src="./Basic-School-webDesign-1/PREVIEW/before.png" width="100%">
       </div>
     </td>
     <td width="50%">
       <div style="height:600px; overflow:auto;">
-        <img src="./Basic-School-webDesign-1/PREVIEW/TENTANG%20EKSTRAKULIKULER.png" width="100%">
+        <img src="./Basic-School-webDesign-1/PREVIEW/Homepage.png" width="100%">
       </div>
     </td>
   </tr>
