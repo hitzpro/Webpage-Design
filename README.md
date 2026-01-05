@@ -11,12 +11,14 @@ Desain website company profile untuk sekolah.
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
+      <h2>Before</h2>
       <div style="height:600px; overflow:auto;">
         <img src="./Basic-School-webDesign-1/PREVIEW/before.png" width="100%">
       </div>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
+      <h2>After</h2>
       <div style="height:600px; overflow:auto;">
         <img src="./Basic-School-webDesign-1/PREVIEW/Homepage.png" width="100%">
       </div>
