@@ -1,46 +1,19 @@
-\# Website Company Profile – UI Design
+Website Company Profile – UI Design
 
+Desain UI website company profile untuk sekolah.
+Fokus pada tampilan yang informatif, rapi, dan mudah dipahami oleh siswa serta orang tua.
 
+Tools yang digunakan:
+- Figma
+- Google Fonts
 
-\## Deskripsi
+Halaman yang didesain:
+- Homepage
+- Tentang Ekstrakurikuler
 
-Desain website company profile untuk sekolah.
+Konsep desain:
+- Warna utama hijau (#22C55E) untuk kesan edukatif & positif
+- Layout sederhana agar konten mudah dibaca
+- Prioritas pada keterbacaan informasi
 
-Fokus pada tampilan informatif, rapi, dan mudah dipahami siswa \& orang tua.
-
-
-
-\## Tools
-
-\- Figma
-
-\- Google Fonts
-
-
-
-\## Halaman yang didesain
-
-\- Homepage
-
-\- Tentang Ekstrakurikuler
-
-
-
-\## Konsep Desain
-
-\- Warna utama hijau (#22C55E)
-
-\- Layout sederhana \& edukatif
-
-\- Fokus pada keterbacaan konten
-
-
-
-\## Preview
-
-!\[Homepage](PREVIEW/Homepage.png)
-
-!\[Tentang](PREVIEW/TENTANG%20EKSTRAKULIKULER.png)
-
-
-
+Preview desain tersedia di folder PREVIEW.
